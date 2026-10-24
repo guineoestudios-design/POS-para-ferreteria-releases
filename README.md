@@ -1,2 +1,3 @@
 # POS-para-ferreteria-releases
-Instaladores y actualizaciones de Ferretería MR POS
+Instaladores y actualizaciones de POS  para ferreterias
+
